@@ -11,4 +11,5 @@
 public class PruebaGit1 {
     int hola;
     int chao;
+    int denuevo;
 }
