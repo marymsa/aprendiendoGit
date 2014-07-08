@@ -8,8 +8,6 @@
  *
  * @author Marielby Soares
  */
-public class PruebaGit1 {
-    int hola;
-    int chao;
-    int denuevo;
+public class PruebaGit2 {
+    int dos;
 }
